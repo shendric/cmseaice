@@ -1,0 +1,4 @@
+include LICENSE
+include cmseaice/VERSION
+include requirements.txt
+recursive-include tests *.py
